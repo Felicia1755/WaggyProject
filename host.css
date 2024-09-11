@@ -1,0 +1,35 @@
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+  
+  }
+  .navbar-brand{
+      justify-content: center
+  }
+  .my-5 {
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+a:link{
+color: rgb(19, 18, 16);
+text-decoration: none
+}
+.fs-4{
+    color: burlywood
+}
+:root {
+    --body-font: 'Chilanka', cursive;
+    --heading-font: 'Chilanka', cursive;
+    --secondary-font: Montserrat, sans-serif;
+}
+.container{
+    justify-content: space-between
+}
